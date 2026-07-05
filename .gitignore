@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Next.js
+.next/
+out/
+
+# Laravel
+vendor/
+.env
+.env.*
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Project-specific generated/sensitive paths
+frontend/node_modules/
+frontend/.next/
+backend-runtime/vendor/
+backend-runtime/storage/
+backend-runtime/.env
+
+# Cache
+.cache/
